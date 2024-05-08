@@ -1,6 +1,6 @@
 # Viola-Jones Face Detection System
 
-The Viola-Jones object detection framework, introduced in 2001 by Paul Viola and Michael Jones, represents a breakthrough in the field of Computer Vision (CV), particularly in the domain of real- time face detection.
+The Viola-Jones object detection framework, introduced in 2001 by Paul Viola and Michael Jones, represents a breakthrough in the field of Computer Vision (CV), particularly in the domain of real-time face detection.
 
 ## Introduction
 
