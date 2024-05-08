@@ -2,9 +2,12 @@
 
 The Viola-Jones object detection framework, introduced in 2001 by Paul Viola and Michael Jones, represents a breakthrough in the field of Computer Vision (CV), particularly in the domain of real- time face detection.
 
-## Overview
+## Introduction
 
 This Python script implements the Viola-Jones face detection algorithm using OpenCV for face, eye, and mouth detection. The program captures video from a webcam, processes each frame for face detection, and displays the live feed with bounding boxes around detected faces, eyes, and mouths.
+
+## Motivation
+The Viola-Jones algorithm is a popular method for real-time object detection, particularly for faces. This project aims to provide a simple implementation of the algorithm using Python and OpenCV, making it accessible for educational purposes, prototyping, or integration into larger projects. Face detection has various applications, including security systems, human-computer interaction, and biometric identification.
 
 ## Requirements
 
